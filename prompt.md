@@ -1,0 +1,1 @@
+Setup my blogs here using nextjs with some md renderer, my blogs will mostly be md files for now and they would be stored in a directory. the home page would be a list of all the blogs and opening each blog would render the md file in a renderer. keep the UI clean and simple and the content should be medium.com like
